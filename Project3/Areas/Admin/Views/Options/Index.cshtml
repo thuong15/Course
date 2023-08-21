@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Project3.Models.Option>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OptionText)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsCorrect)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Question)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OptionText)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsCorrect)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Question.QuestionText)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OptionId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OptionId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OptionId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,108 @@
+﻿@model Project3.Models.Account
+
+@{
+    ViewData["Tittle"] = "Login";
+    //Layout = null;
+}
+
+@*<form method="post" asp-action="Login" asp-controller="Accounts">
+<label>Tai khoan</label>
+<input type="Text" name="user"  />
+<br />
+<label>Mat khau</label>
+<input type="password" name="password" />
+<input type="submit" value="submit" />
+	@TempData["Errol"]
+</form>*@
+
+<!-- *** Main Banner Area Start *** -->
+@*<div class="page-heading" id="top">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="inner-content">
+                    <h2>Login</h2>
+                    <span>Awesome &amp; Creative HTML CSS layout by TemplateMo</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>*@
+
+<div class="page-heading" id="top">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="inner-content">
+                    <h2>Login</h2>
+                    @*<span>Awesome &amp; Creative HTML CSS layout by TemplateMo</span>*@
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container" style="background-image: url('/thumnails/Background.png');
+background-size: cover; background-position: center;border-radius:5px">
+    <div class="row">
+        <div class="col-md-6">
+        </div>
+        <div class="col-md-6">
+
+            <form style="display: flex; justify-content: center;" method="post" asp-action="Login" asp-controller="Accounts">
+                <div class="Container" style="width: 100%; border: 1px solid; padding: 40px; color: #ffffff; background: #2a2a2a; border-radius: 10px;">
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label">UserName: </label>
+                        <div class="col-sm-8">
+                            <input type="text" style="margin-left:20px" class="form-control" name="user" placeholder="DỖ Văn A">
+                        </div>
+                    </div>
+                    @*<div class="form-group row">
+                    <label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+                    <div class="col-sm-10">
+                    <input type="email" class="form-control" placeholder="abc@gmail.com">
+                    </div>
+                    </div>
+                    <div class="form-group row">
+                    <label class="col-sm-2 col-form-label">Phone</label>
+                    <div class="col-sm-10">
+                    <input type="number" class="form-control" placeholder="0123456">
+                    </div>
+                    </div>*@
+                    <div class="form-group row">
+                        <label class="col-sm-2 col-form-label">Password: </label>
+                        <div class="col-sm-8">
+                            <input style="margin-left:20px" type="password" id="passwordInput" class="form-control" name="password" placeholder="Password">
+                            <input style="margin-left:20px" type="checkbox" id="showHideCheckbox">
+                            <label for="showHideCheckbox"> Show Password</label>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-sm-12">
+                            <p style="text-align: center;color:#ffffff">Don't have an account? <a asp-controller="Accounts" asp-action="Register">Register here</a></p>
+                        </div>
+                    </div>
+                    <input class="btn btn-primary" type="submit" value="Finish" />
+
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const passwordInput = document.getElementById("passwordInput");
+        const showHideCheckbox = document.getElementById("showHideCheckbox");
+
+        showHideCheckbox.addEventListener("click", function () {
+            if (showHideCheckbox.checked) {
+                passwordInput.type = "text";
+            } else {
+                passwordInput.type = "password";
+            }
+        });
+    });
+</script>

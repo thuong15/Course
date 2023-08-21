@@ -1,0 +1,93 @@
+﻿@model IEnumerable<Project3.Models.Course>
+
+
+
+
+<style>
+	.profile-card {
+		width: 350px;
+		height: 450px;
+		border-radius: 10px;
+		color: #ffffff;
+		padding: 20px;
+		margin: auto;
+	}
+
+	.profile-picture {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		border: 5px solid #ffffff;
+		margin: 20px auto;
+		cursor: pointer;
+		display: block;
+		object-fit: cover;
+	}
+
+	.profile-name {
+		margin-bottom: 10px;
+	}
+</style><!-- *** Main Banner Area Start *** -->
+<div class="page-heading" id="top">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="inner-content">
+					<h2>Đăng kí Nhận Bộ Đề</h2>
+					@*<span>Awesome &amp; Creative HTML CSS layout by TemplateMo</span>*@
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<form   style="display: flex; justify-content: center;" method="post">
+
+	<div class="Container" style="width: 50%;
+    border: 1px solid;
+    padding: 60px;
+    color: #ffffff;
+    background: #2a2a2a;
+    border-radius: 10px;">
+		@if (User.Identity.IsAuthenticated && User.Claims.FirstOrDefault(c => c.Type == "roleid").Value.Equals("2"))
+		{
+			<div class="profile-card">
+				@foreach (var iteam in Model)
+				{
+				<img class="profile-picture" src="~/Thumnails/@User.Claims.FirstOrDefault(c => c.Type == "avatar").Value" alt="" alt="Profile Picture" />
+				<div class="info" style="margin-left:70px">
+					<h2 class="profile-name">
+						<div class="profile-title" id="profile-title">@User.Claims.FirstOrDefault(c => c.Type == "name").Value</div>
+						<div class="profile-input">
+							<input id="input-name" style="display: none;" value="abc" />
+						</div>
+					</h2>
+
+					<fieldset class="form-group">
+						<div class="row">
+							<label class="col-form-label col-sm-4 pt-0">Language: </label>
+							<div class="col-sm-8">
+								<div class="form-check">
+									
+										@iteam.CourseName
+										
+								</div>
+
+							</div>
+								@*<input hidden name="CourseId" value="@iteam.CourseId">*@
+						</div>
+					</fieldset>
+					<div class="form-group row">
+						<div class="col-sm-10">
+							<button asp-action="OrderCourses" asp-controller="Home" asp-route-id="@iteam.CourseId" type="submit" class="btn btn-primary">Register Course</button>
+						</div>
+					</div>
+				</div>
+				}
+			</div>
+		}
+	</div>
+		
+</form>
+
+
+

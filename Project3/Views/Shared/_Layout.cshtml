@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<title>Hexashop Ecommerce HTML CSS Template</title>
+
+	@*<link href="~/css/exam.css" rel="stylesheet" />*@
+	<!-- Additional CSS Files -->
+	<link href="~/login/css/font-awesome.css" rel="stylesheet" />
+	<link href="~/login/css/bootstrap.min.css" rel="stylesheet" />
+
+	<link href="~/login/css/templatemo-hexashop.css" rel="stylesheet" />
+
+	<link href="~/login/css/owl-carousel.css" rel="stylesheet" />
+	<link href="~/login/css/lightbox.css" rel="stylesheet" />
+	<!--
+
+	TemplateMo 571 Hexashop
+
+	https://templatemo.com/tm-571-hexashop
+
+	-->
+</head>
+
+<body>
+
+	<!-- *** Preloader Start *** -->
+	<div id="preloader">
+		<div class="jumper">
+			<div></div>
+			<div></div>
+			<div></div>
+		</div>
+	</div>
+	<!-- *** Preloader End *** -->
+	<!-- *** Header Area Start *** -->
+	<header class="header-area header-sticky">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<nav class="main-nav">
+						<!-- *** Logo Start *** -->
+						<a asp-action="Index" class="logo">
+							@*<img src="~/assets/images/logo.png">*@
+							<span style="color:#000">Shyphony</span>
+						</a>
+						<!-- *** Logo End *** -->
+						<!-- *** Menu Start *** -->
+						<ul class="nav">
+							<li class="scroll-to-section"><a asp-controller="Home" asp-action="Index" class="active">Home</a></li>
+							<li class="scroll-to-section"><a asp-controller="Home" asp-action="Courses">Courses</a></li>
+							<li class="scroll-to-section"><a asp-controller="Home" asp-action="Admissions">Admission</a></li>
+							<li class="scroll-to-section"><a asp-controller="Home" asp-action="Examsses">Exam</a></li>
+							@*<li class="submenu">
+							<a href="#">Pages</a>
+							<ul>
+							<li><a href="about.html">About Us</a></li>
+							<li><a asp-controller="Home" asp-action="Topic">Exam</a></li>
+							</ul>
+							</li>*@
+							<li class="submenu">
+								<a>Blogs</a>
+								<ul>
+									<li><a asp-controller="Home" asp-action="Blogs">News</a></li>
+									<li><a href="#">Language</a></li>
+								</ul>
+							</li>
+							<li class="scroll-to-section"><a asp-controller="Home" asp-action="FeedBacks">Contact us</a></li>
+
+							<li class="submenu">
+								
+								@if (User.Identity.IsAuthenticated && User.Claims.FirstOrDefault(c => c.Type == "roleid").Value.Equals("2"))
+								{
+									
+									<img style="Border-radius:100px;display:block" src="~/Thumnails/@User.Claims.FirstOrDefault(c => c.Type == "avatar").Value" height="60" width="60" />
+									<ul>
+										<li><a asp-controller="Home" asp-action="Profile" asp-route-id="@User.Claims.FirstOrDefault(c => c.Type == "idusser")">Profile</a></li>
+										<li><a asp-controller="Accounts" asp-action="logout">LogOut</a></li>
+									</ul>
+								}else{
+									<img style="Border-radius:100px;display:block" src="~/Thumnails/Avt.PNG" height="60" width="60" />
+									<ul>
+										<li><a asp-controller="Accounts" asp-action="Login">Login</a></li>
+									<li><a asp-controller="Accounts" asp-action="Register">Register</a></li>
+									</ul>
+								}
+
+							</li>
+						</ul>
+
+						<a class='menu-trigger'>
+							<span>Menu</span>
+						</a>
+						<!-- *** Menu End *** -->
+					</nav>
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- *** Header Area End *** -->
+	<div style="margin-top:200px">
+		@RenderBody()
+	</div>
+
+	<!-- *** Footer Start *** -->
+	<footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+				</div>
+				<div class="col-lg-3">
+
+					<div class="first-item">
+						<div class="logo">
+							<span style="color:#fff">Shyphony</span>
+						</div>
+						<ul>
+							<li>
+								<a href="#">
+									285 Phố Đội Cấn, Liễu Giai, Ba Đình, Hanoi
+							<li><a href="#">hexashop@company.com</a></li>
+							<li><a href="#">010-020-0340</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3">
+					<h4>Shopping &amp; Categories</h4>
+					<ul>
+						<li><a href="#">Courses </a></li>
+						<li><a href="#">Admission</a></li>
+						<li><a href="#">Kid's Shopping</a></li>
+					</ul>
+				</div>
+
+				<div class="col-lg-12">
+					<div class="under-footer">
+						<p>
+							Copyright © 2022 HexaShop Co., Ltd. All Rights Reserved.
+
+							<br>Design: <a href="https://templatemo.com" target="_parent" title="free css templates">TemplateMo</a>
+						</p>
+						<ul>
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="#"><i class="fa fa-behance"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+
+	<!-- jQuery -->
+	<script src="~/Login/js/jquery-2.1.0.min.js"></script>
+
+	<!-- Bootstrap -->
+	<script src="~/Login/js/popper.js"></script>
+	<script src="~/Login/js/bootstrap.min.js"></script>
+
+	<!-- Plugins -->
+	<script src="~/Login/js/owl-carousel.js"></script>
+	<script src="~/Login/js/accordions.js"></script>
+	<script src="~/Login/js/datepicker.js"></script>
+	<script src="~/Login/js/scrollreveal.min.js"></script>
+	<script src="~/Login/js/waypoints.min.js"></script>
+	<script src="~/Login/js/jquery.counterup.min.js"></script>
+	<script src="~/Login/js/imgfix.min.js"></script>
+	<script src="~/Login/js/slick.js"></script>
+	<script src="~/Login/js/lightbox.js"></script>
+	<script src="~/Login/js/isotope.js"></script>
+
+
+
+	<!-- Global Init -->
+	<script src="~/Login/js/custom.js"></script>
+
+	<script>
+
+		$(function () {
+			var selectedClass = "";
+			$("p").click(function () {
+				selectedClass = $(this).attr("data-rel");
+				$("#portfolio").fadeTo(50, 0.1);
+				$("#portfolio div").not("." + selectedClass).fadeOut();
+				setTimeout(function () {
+					$("." + selectedClass).fadeIn();
+					$("#portfolio").fadeTo(50, 1);
+				}, 500);
+
+			});
+		});
+
+	</script>
+
+</body>
+</html>

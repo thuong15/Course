@@ -1,0 +1,82 @@
+﻿@model Project3.Models.Examss
+
+@{
+    ViewData["Title"] = "Point";
+    
+}
+
+<style>
+    .point {
+        margin-bottom: 15px;
+        width: 300px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        text-align: center;
+        padding: 15px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .heading {
+        background-color: #f0f0f0;
+        padding: 5px;
+        border-radius: 4px;
+        margin-bottom: 8px;
+    }
+
+        .heading h4 {
+            margin: 0;
+            font-size: 18px;
+            color: #333;
+        }
+
+    .table-bordered {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .table-bordered tr {
+            border-bottom: 1px solid #ccc;
+        }
+
+        .table-bordered td {
+            padding: 8px;
+        }
+
+            .table-bordered td:first-child {
+                font-weight: bold;
+            }
+</style>
+<div class="container">
+    <div class="point" style="margin:auto">
+        <div class="heading">
+            <h4>Result</h4>
+        </div>
+        <table class="table-bordered">
+            <tr>
+                <td>Numbers True: </td>
+                <td>@ViewBag.diem</td>
+            </tr>
+        </table>
+        <hr />
+        @if (ViewData["a"] != null)
+        {
+            <h2>Check:</h2>
+            <table class="table-bordered">
+                <tr>
+                    <th>TT</th>
+                    <th>Question Text</th>
+                    <th>Result</th>
+                </tr>
+                @foreach (var result in (IEnumerable<Project3.ViewModels.Class>)ViewData["a"])
+                {
+                    <tr>
+                        <td>@result.QuestionId</td>
+                        <td>@result.QuestionText</td>
+                        <td>@(result.IsCorrect ? "True" : "False")</td>
+                    </tr>
+                }
+            </table>
+        }
+    </div>
+</div>
+

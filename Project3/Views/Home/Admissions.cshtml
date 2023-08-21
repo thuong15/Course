@@ -1,0 +1,130 @@
+﻿@model Project3.Models.Admission
+
+
+<style>
+	.form-control {
+		background: inherit;
+		border: 0 0 1px 0;
+		color: #fff
+	}
+</style>
+
+<!-- ***** Main Banner Area Start ***** -->
+<div class="page-heading" id="top">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="inner-content">
+					<h2>Đăng kí Tuyển Sinh Tại Đây</h2>
+					@*<span>Awesome &amp; Creative HTML CSS layout by TemplateMo</span>*@
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row">
+
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-6">
+					<a asp-action="Index" class="logo">
+						<img src="~/Thumnails/admission.jpg" width="100%">
+					</a>
+				</div>
+				<div class="col-md-6">
+					<p style="margin-top:50px">
+						Trải qua 24 năm hoạt động (kể từ 1999),  Aptech luôn khẳng định là đơn vị tiên phong đào tạo Lập Trình Viên Quốc Tế hàng đầu tại Việt Nam, trực thuộc Tập đoàn FPT, cung cấp nguồn nhân lực CNTT chất lượng cao cho các doanh nghiệp trong và ngoài nước.
+
+						Bạn đam mê Lập trình và mong muốn tạo nên những website, phần mềm, ứng dụng hay tựa game ấn tượng? Bạn đang tìm kiếm một môi trường học cập nhật công nghệ mới nhất, đội ngũ giảng viên giàu kinh nghiệm nhất?
+
+						Tìm hiểu chương trình học Lập Trình Viên Quốc Tế tại  Aptech ngay để khám phá “miền đất tri thức” đầy hứa hẹn!
+					</p>
+				</div>
+			</div>
+
+		</div>
+		<div class="col-md-12">
+			<form style="display: flex;
+            justify-content: center;">
+				<div class="Container" style="width: 100%;
+            border: 1px solid;
+            padding: 40px;
+            color: #ffffff;
+            background: #2a2a2a;
+            border-radius: 10px;" asp-action="Admissions">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="form-group row">
+								<label class="col-sm-2 col-form-label">Full Name</label>
+								<div class="col-sm-10">
+									@*<input type="text" class="form-control" placeholder="DỖ Văn A">*@
+									<input asp-for="FullName" class="form-control" />
+									<span asp-validation-for="FullName" class="text-danger"></span>
+								</div>
+							</div>
+							<div class="form-group row">
+								<label for="inputEmail3" class="col-sm-2 col-form-label">Email</label>
+								<div class="col-sm-10">
+									@*<input type="email" class="form-control" placeholder="abc@gmail.com">*@
+									<input asp-for="Email" class="form-control" />
+									<span asp-validation-for="Email" class="text-danger"></span>
+								</div>
+							</div>
+							<div class="form-group row">
+								<label class="col-sm-2 col-form-label">Phone</label>
+								<div class="col-sm-10">
+									@*<input type="number" class="form-control" placeholder="0123456">*@
+									<input asp-for="Phone" class="form-control" />
+									<span asp-validation-for="Phone" class="text-danger"></span>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="form-group row">
+								<label for="inputEmail3" class="col-sm-2 col-form-label">Address</label>
+								<div class="col-sm-10">
+									@*<input type="text" class="form-control" placeholder="Hà Nội">*@
+									<input asp-for="Address" class="form-control" />
+									<span asp-validation-for="Address" class="text-danger"></span>
+								</div>
+							</div>
+							<div class="form-group row">
+								<label class="col-sm-2 col-form-label">Birthday</label>
+								<div class="col-sm-10">
+									@*<input type="date" class="form-control">*@
+									<input asp-for="Birthday" class="form-control" />
+									<span asp-validation-for="Birthday" class="text-danger"></span>
+								</div>
+							</div>
+							<div class="form-group row">
+								<label for="inputEmail3" class="col-sm-2 col-form-label">Maths</label>
+								<div class="col-sm-10">
+									@*<input type="number" class="form-control" max="10" min="0">*@
+									<input asp-for="Maths" class="form-control" max="10" min="0" />
+									<span asp-validation-for="Maths" class="text-danger"></span>
+								</div>
+							</div>
+							<div class="form-group row">
+								<label for="inputEmail3" class="col-sm-2 col-form-label">Englishs</label>
+								<div class="col-sm-10">
+									@*<input type="number" class="form-control" max="10" min="0">*@
+									<input asp-for="Englishs" class="form-control" max="10" min="0" />
+									<span asp-validation-for="Englishs" class="text-danger"></span>
+								</div>
+							</div>
+
+						</div>
+					</div>
+					<div class="form-group row">
+						<div class="col-sm-10">
+							@*<button type="submit" class="btn btn-primary">Sign in</button>*@
+							<input type="submit" value="Finish" class="btn btn-primary" />
+						</div>
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,167 @@
+﻿@model IEnumerable<Project3.Models.Topic>
+
+@*<form>
+	@foreach (var item in Model)
+	{
+		<p>@item.TopicName</p>
+		<a asp-action="Questions" asp-controller="Home" asp-route-id="@item.TopicId">
+			<p>@item.Levels</p>
+		</a>
+
+	}
+
+</form>*@
+
+<style>
+	:root {
+		--bg1: #B8C2C0;
+		--bg2: #7D807F;
+	}
+
+	.card-item {
+		width: 350px;
+		height: 160px;
+		border-radius: 15px;
+		background: linear-gradient(var(--bg1), var(--bg2));
+		padding: 20px;
+		margin: 10px 10px;
+	}
+
+	.title {
+		width: 50%;
+		margin: auto;
+		border-radius: 20px;
+		box-shadow: 1px 3px;
+		display: flex;
+		align-items: center;
+		justify-content: center
+	}
+
+	.progress {
+		height: 50px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: inherit;
+	}
+
+		.progress li {
+			width: 15%;
+			border-radius: 50%;
+			justify-content: center;
+			align-items: center;
+			display: flex;
+			border: 1px solid;
+			margin-left: 5px;
+		}
+</style>
+
+<!-- ***** Main Banner Area Start ***** -->
+<div class="page-heading" id="top">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="inner-content">
+					<h2>Single Product Page</h2>
+					<span>Awesome &amp; Creative HTML CSS layout by TemplateMo</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- ***** Main Banner Area End ***** -->
+<!-- ***** Product Area Starts ***** -->
+<section class="section" id="product">
+	<div class="container">
+		@foreach (var iteam in (IEnumerable<Project3.Models.Course>)ViewData["akfh"])
+		{
+			<div class="row">
+		<div class="col-lg-8">
+		<div class="left-images">
+		<img  height="500px" src="~/Thumnails/@iteam.Image" alt="">
+		
+		</div>
+		</div>
+		<div class="col-lg-4">
+		<div class="right-content">
+		<h4>@iteam.CourseName</h4>
+		
+		<ul class="stars">
+		<li><i class="fa fa-star"></i></li>
+		<li><i class="fa fa-star"></i></li>
+		<li><i class="fa fa-star"></i></li>
+		<li><i class="fa fa-star"></i></li>
+		<li><i class="fa fa-star"></i></li>
+		</ul>
+		<span>Information: @iteam.CourseDescription</span>
+		<div class="quote">
+		<i class="fa fa-quote-left"></i><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiuski smod.</p>
+		</div>
+		<div class="quantity-content">
+		<div class="left-content">
+		
+		</div>
+
+		</div>
+		
+		</div>
+		</div>
+		</div>
+
+		}
+		
+
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h1>Nội Dung Khóa Học</h1>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+
+				@foreach (var iteam in Model)
+				{
+					<div class="col-md-4">
+						<div class="card-item">
+							<div class="title btn btn-outline-primary"><a>@iteam.TopicName</a></div>
+							<hr>
+							@*@foreach (var item in Model)
+						{*@
+							<div class="submenu">
+								<ul class="progress">
+									<a asp-action="Questions" asp-controller="Home" asp-route-id="@iteam.TopicId">
+										run
+									</a>
+									@*@foreach (var level in item.Levels)
+								{
+								<a asp-action="Questions" asp-controller="Home" asp-route-id="@item.TopicId">
+								<li class="btn btn-outline-primary">@level</li>
+								</a>
+								}*@
+								</ul>
+							</div>
+							@*}*@
+
+						</div>
+
+					</div>
+				}
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- ***** Product Area Ends ***** -->
+
+@if (ViewBag.mss != null)
+{
+
+
+	<script>
+		alert("Ban da thi bai nay");
+	</script>
+}

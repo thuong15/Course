@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Project3.Models.Examss>
+
+
+<style>
+
+    .table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+        .table tr {
+            border-bottom: 1px solid #ccc;
+        }
+
+        .table th {
+            background: #6c7978;
+            color: #fff;
+        }
+
+        .table td {
+            padding: 8px;
+        }
+
+            .table td:first-child {
+                font-weight: bold;
+            }
+</style>
+
+<form>
+    <!-- *** Main Banner Area Start *** -->
+    <div class="page-heading" id="top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="inner-content">
+                        <h2>Rank</h2>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="table">
+            <table border="1" style="width:100%">
+                @{
+                    int tt = 1;
+                }
+                <tr>
+                    <th>STT</th>
+                    <th>Course Topic</th>
+                    <th>Course Name</th>
+                    <th>Test score</th>
+                </tr>
+                @foreach (var iteam in Model)
+                {
+                    
+                    <tr>
+                        <td>@tt</td>
+                        @if (iteam.Topic != null && iteam.Topic.CourseDetails != null && iteam.Topic.CourseDetails.Course != null)
+                        {
+
+                            <td>@iteam.Topic.TopicName</td>
+                            <td>
+                                @iteam.Topic.CourseDetails.Course.CourseName</td>
+                        }
+                        <td>@iteam.Point</td>
+
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+
+</form>

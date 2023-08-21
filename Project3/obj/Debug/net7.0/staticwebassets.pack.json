@@ -1,0 +1,3137 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Project3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Project3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\Admin\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\css\\bootstrap-colorpicker.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\js\\bootstrap-colorpicker.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-slider\\bootstrap-slider.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-slider\\bootstrap-slider.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-slider\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-slider\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-slider\\css\\bootstrap-slider.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-slider\\css\\bootstrap-slider.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-slider\\css\\bootstrap-slider.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-slider\\css\\bootstrap-slider.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-switch\\js\\bootstrap-switch.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-switch\\js\\bootstrap-switch.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap-switch\\js\\bootstrap-switch.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-switch\\js\\bootstrap-switch.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap4-duallistbox\\bootstrap-duallistbox.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap4-duallistbox\\bootstrap-duallistbox.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap4-duallistbox\\bootstrap-duallistbox.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap4-duallistbox\\bootstrap-duallistbox.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap4-duallistbox\\jquery.bootstrap-duallistbox.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap4-duallistbox\\jquery.bootstrap-duallistbox.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap4-duallistbox\\jquery.bootstrap-duallistbox.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap4-duallistbox\\jquery.bootstrap-duallistbox.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-custom-file-input\\bs-custom-file-input.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-custom-file-input\\bs-custom-file-input.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-custom-file-input\\bs-custom-file-input.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-custom-file-input\\bs-custom-file-input.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-custom-file-input\\bs-custom-file-input.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-custom-file-input\\bs-custom-file-input.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-custom-file-input\\bs-custom-file-input.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-custom-file-input\\bs-custom-file-input.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-stepper\\css\\bs-stepper.css.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-stepper\\css\\bs-stepper.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-stepper\\css\\bs-stepper.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-stepper\\css\\bs-stepper.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-stepper\\css\\bs-stepper.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-stepper\\css\\bs-stepper.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-stepper\\js\\bs-stepper.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-stepper\\js\\bs-stepper.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-stepper\\js\\bs-stepper.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-stepper\\js\\bs-stepper.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\bs-stepper\\js\\bs-stepper.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bs-stepper\\js\\bs-stepper.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\chart.js\\Chart.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\chart.js\\Chart.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\chart.js\\Chart.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\chart.js\\Chart.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\keymap\\emacs.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\keymap\\emacs.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\keymap\\sublime.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\keymap\\sublime.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\keymap\\vim.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\keymap\\vim.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\mode\\meta.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\mode\\meta.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\3024-day.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\3024-day.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\3024-night.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\3024-night.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\abbott.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\abbott.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\abcdef.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\abcdef.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\ambiance-mobile.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\ambiance-mobile.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\ambiance.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\ambiance.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\ayu-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\ayu-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\ayu-mirage.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\ayu-mirage.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\base16-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\base16-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\base16-light.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\base16-light.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\bespin.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\bespin.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\blackboard.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\blackboard.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\cobalt.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\cobalt.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\colorforth.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\colorforth.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\darcula.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\darcula.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\dracula.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\dracula.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\duotone-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\duotone-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\duotone-light.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\duotone-light.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\eclipse.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\eclipse.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\elegant.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\elegant.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\erlang-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\erlang-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\gruvbox-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\gruvbox-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\hopscotch.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\hopscotch.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\icecoder.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\icecoder.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\idea.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\idea.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\isotope.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\isotope.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\juejin.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\juejin.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\lesser-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\lesser-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\liquibyte.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\liquibyte.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\lucario.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\lucario.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\material-darker.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\material-darker.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\material-ocean.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\material-ocean.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\material-palenight.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\material-palenight.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\material.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\material.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\mbo.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\mbo.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\mdn-like.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\mdn-like.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\midnight.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\midnight.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\monokai.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\monokai.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\moxer.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\moxer.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\neat.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\neat.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\neo.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\neo.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\night.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\night.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\nord.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\nord.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\oceanic-next.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\oceanic-next.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\panda-syntax.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\panda-syntax.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\paraiso-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\paraiso-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\paraiso-light.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\paraiso-light.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\pastel-on-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\pastel-on-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\railscasts.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\railscasts.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\rubyblue.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\rubyblue.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\seti.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\seti.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\shadowfox.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\shadowfox.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\solarized.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\solarized.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\ssms.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\ssms.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\the-matrix.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\the-matrix.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\tomorrow-night-bright.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\tomorrow-night-bright.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\tomorrow-night-eighties.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\tomorrow-night-eighties.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\ttcn.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\ttcn.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\twilight.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\twilight.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\vibrant-ink.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\vibrant-ink.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\xq-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\xq-dark.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\xq-light.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\xq-light.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\yeti.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\yeti.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\yonce.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\yonce.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\codemirror\\theme\\zenburn.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\codemirror\\theme\\zenburn.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\css\\autoFill.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\js\\autoFill.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\js\\dataTables.autoFill.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-autofill\\js\\dataTables.autoFill.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.colVis.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.colVis.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.flash.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.flash.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.html5.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.html5.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.print.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.print.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\dataTables.buttons.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\dataTables.buttons.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\css\\colReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\js\\colReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-colreorder\\js\\dataTables.colReorder.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\css\\fixedColumns.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\js\\dataTables.fixedColumns.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedcolumns\\js\\fixedColumns.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\css\\fixedHeader.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\js\\dataTables.fixedHeader.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-fixedheader\\js\\fixedHeader.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\css\\keyTable.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\js\\dataTables.keyTable.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\js\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-keytable\\js\\keyTable.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-responsive\\js\\dataTables.responsive.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\js\\dataTables.responsive.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-responsive\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\css\\rowGroup.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\js\\dataTables.rowGroup.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowgroup\\js\\rowGroup.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\css\\rowReorder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\js\\dataTables.rowReorder.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-rowreorder\\js\\rowReorder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\css\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-scroller\\js\\dataTables.scroller.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\js\\dataTables.scroller.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\js\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-scroller\\js\\scroller.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\css\\searchBuilder.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\js\\dataTables.searchBuilder.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchbuilder\\js\\searchBuilder.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\css\\searchPanes.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\js\\dataTables.searchPanes.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-searchpanes\\js\\searchPanes.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-select\\css\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\css\\select.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-select\\css\\select.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\css\\select.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-select\\js\\dataTables.select.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\js\\dataTables.select.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-select\\js\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\js\\dataTables.select.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-select\\js\\select.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\js\\select.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables-select\\js\\select.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables-select\\js\\select.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\basic.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\basic.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\dropzone-amd-module.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\dropzone-amd-module.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\dropzone.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\dropzone.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\dropzone.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\min\\basic.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\min\\basic.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\min\\basic.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\min\\basic.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\min\\dropzone-amd-module.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\min\\dropzone-amd-module.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\min\\dropzone.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\min\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\min\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\min\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\dropzone\\min\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropzone\\min\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ekko-lightbox\\ekko-lightbox.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fastclick\\fastclick.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fastclick\\fastclick.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\filterizr\\filterizr.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\filterizr\\filterizr.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\filterizr\\jquery.filterizr.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\filterizr\\jquery.filterizr.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\filterizr\\vanilla.filterizr.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\filterizr\\vanilla.filterizr.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flag-icon-css\\css\\flag-icon.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flag-icon-css\\css\\flag-icon.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flag-icon-css\\css\\flag-icon.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flag-icon-css\\css\\flag-icon.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.axislabels.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.axislabels.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.browser.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.browser.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.categories.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.categories.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.composeImages.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.composeImages.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.drawSeries.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.drawSeries.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.errorbars.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.errorbars.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.fillbetween.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.fillbetween.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.flatdata.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.flatdata.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.hover.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.hover.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.image.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.image.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.legend.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.legend.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.logaxis.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.logaxis.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.navigate.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.navigate.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.saturated.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.saturated.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.symbol.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.symbol.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.threshold.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.threshold.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.touch.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.touch.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.touchNavigate.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.touchNavigate.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\flot\\plugins\\jquery.flot.uiConstants.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\flot\\plugins\\jquery.flot.uiConstants.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales-all.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales-all.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales-all.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales-all.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\af.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\af.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ar-dz.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ar-dz.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ar-kw.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ar-kw.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ar-ly.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ar-ly.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ar-ma.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ar-sa.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ar-tn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ar.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ar.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\az.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\az.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\bg.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\bg.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\bn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\bn.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\bs.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\bs.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ca.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ca.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\cs.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\cs.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\cy.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\cy.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\da.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\da.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\de-at.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\de-at.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\de.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\de.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\el.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\el.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\en-au.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\en-au.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\en-gb.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\en-nz.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\en-nz.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\eo.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\eo.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\es-us.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\es-us.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\es.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\es.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\et.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\et.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\eu.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\eu.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\fa.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\fa.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\fi.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\fi.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\fr-ca.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\fr-ch.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\fr-ch.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\fr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\fr.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\gl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\gl.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\he.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\he.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\hi.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\hi.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\hr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\hr.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\hu.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\hu.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\hy-am.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\hy-am.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\id.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\id.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\is.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\is.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\it.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\it.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ja.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ja.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ka.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ka.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\kk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\kk.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\km.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\km.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ko.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ko.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ku.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ku.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\lb.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\lb.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\lt.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\lt.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\lv.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\lv.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\mk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\mk.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ms.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ms.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\nb.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\nb.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ne.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ne.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\nl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\nl.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\nn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\nn.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\pl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\pl.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\pt-br.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\pt.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\pt.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ro.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ro.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ru.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ru.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\sk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\sk.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\sl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\sl.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\sm.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\sm.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\sq.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\sq.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\sr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\sr.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\sv.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\sv.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ta-in.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ta-in.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\th.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\th.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\tr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\tr.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\ug.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\ug.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\uk.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\uk.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\uz.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\uz.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\vi.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\vi.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\zh-cn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\locales\\zh-tw.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\locales\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\main.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\main.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\main.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\main.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\fullcalendar\\main.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\main.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\icheck-bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\icheck-bootstrap"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\icheck-bootstrap\\icheck-bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\icheck-bootstrap\\icheck-bootstrap.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\icheck-bootstrap\\icheck-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\inputmask\\inputmask.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\inputmask\\inputmask.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\inputmask\\inputmask.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\inputmask\\inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\inputmask\\jquery.inputmask.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\inputmask\\jquery.inputmask.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\inputmask\\jquery.inputmask.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\inputmask\\jquery.inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ion-rangeslider\\License.md",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ion-rangeslider\\License.md"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ion-rangeslider\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ion-rangeslider\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ion-rangeslider\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ion-rangeslider\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ion-rangeslider\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ion-rangeslider\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\ion-rangeslider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\ion-rangeslider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-mapael\\jquery.mapael.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-mapael\\jquery.mapael.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-mapael\\jquery.mapael.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-mapael\\jquery.mapael.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-mousewheel\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-mousewheel\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-mousewheel\\jquery.mousewheel.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-mousewheel\\jquery.mousewheel.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\additional-methods.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_az.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_da.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_de.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_el.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery-validation\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-validation\\localization\\messages_es.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\jquery.vmap.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\jquery.vmap.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\jqvmap.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\jqvmap.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\jqvmap.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.algeria.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.argentina.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.brazil.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.canada.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.croatia.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.europe.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.france.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.france.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.germany.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.greece.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.indonesia.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.iran.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.iraq.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.new_regions_france.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.russia.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.serbia.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.tunisia.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.turkey.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.ukraine.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.usa.counties.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.usa.districts.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.usa.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jqvmap\\maps\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\demos\\db.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\demos\\db.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-de.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-de.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-es.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-es.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-fr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-fr.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-he.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-he.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-ja.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-ja.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-ka.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-ka.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-pl.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-pl.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-pt-br.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-pt-br.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-pt.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-pt.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-ru.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-ru.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-tr.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-tr.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-zh-cn.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-zh-cn.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-zh-tw.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\i18n\\jsgrid-zh-tw.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\jsgrid-theme.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\jsgrid-theme.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\jsgrid-theme.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\jsgrid-theme.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\jsgrid.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\jsgrid.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\jsgrid.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\jsgrid.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\jsgrid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\jsgrid.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jsgrid\\jsgrid.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jsgrid\\jsgrid.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jszip\\jszip.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jszip\\jszip.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\jszip\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jszip\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\moment\\locales.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locales.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\moment\\locales.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locales.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\moment\\locales.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\locales.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\moment\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment-with-locales.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\moment\\moment-with-locales.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment-with-locales.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\moment\\moment-with-locales.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment-with-locales.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\moment\\moment.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\pace-progress\\pace.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pace-progress\\pace.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\pace-progress\\pace.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pace-progress\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\pdfmake\\pdfmake.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\pdfmake.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\pdfmake\\pdfmake.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\pdfmake.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\pdfmake\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\pdfmake\\pdfmake.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\pdfmake.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\pdfmake\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\pdfmake\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\popper\\popper-utils.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\popper\\popper-utils.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\popper\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\popper\\popper-utils.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\popper\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\popper\\popper-utils.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\popper\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\popper\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\popper\\popper.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\popper\\popper.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\popper\\popper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\popper\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\popper\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\popper\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\raphael\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\raphael\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\raphael\\license.txt",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\raphael\\license.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\raphael\\raphael.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\raphael\\raphael.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\raphael\\raphael.no-deps.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\raphael\\raphael.no-deps.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\raphael\\raphael.no-deps.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\raphael\\raphael.no-deps.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\select2-bootstrap4-theme\\select2-bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sparklines\\sparkline.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sparklines\\sparkline.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sparklines\\sparkline.mjs",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sparklines\\sparkline.mjs"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-bs4.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-bs4.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-bs4.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-lite.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-lite.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-lite.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-lite.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-lite.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-lite.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-lite.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-lite.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-lite.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-lite.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote-lite.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote-lite.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\summernote\\summernote.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\summernote\\summernote.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sweetalert2-theme-bootstrap-4\\bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2-theme-bootstrap-4\\bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sweetalert2-theme-bootstrap-4\\bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2-theme-bootstrap-4\\bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sweetalert2\\sweetalert2.all.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2\\sweetalert2.all.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sweetalert2\\sweetalert2.all.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2\\sweetalert2.all.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sweetalert2\\sweetalert2.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2\\sweetalert2.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\toastr\\toastr.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\toastr\\toastr.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\toastr\\toastr.js.map",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\toastr\\toastr.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\uplot\\uPlot.cjs.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\uplot\\uPlot.cjs.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\uplot\\uPlot.esm.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\uplot\\uPlot.esm.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\uplot\\uPlot.iife.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\uplot\\uPlot.iife.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\uplot\\uPlot.iife.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\uplot\\uPlot.iife.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Admin\\plugins\\uplot\\uPlot.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\uplot\\uPlot.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\Login\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\Login\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\Login\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\css\\templatemo-hexashop.css",
+      "PackagePath": "staticwebassets\\Login\\css\\templatemo-hexashop.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\Login\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\Login\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Login\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Login\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\about-us-page-heading.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\about-us-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\baner-right-image-04.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\baner-right-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\close.png",
+      "PackagePath": "staticwebassets\\Login\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\explore-image-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\explore-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\explore-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\instagram-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\instagram-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\instagram-03.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\instagram-04.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\instagram-05.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\instagram-06.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\kid-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\kid-03.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\left-banner-image.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\Login\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Login\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\men-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\men-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\men-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\men-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\men-03.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\men-03.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\next.png",
+      "PackagePath": "staticwebassets\\Login\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\prev.png",
+      "PackagePath": "staticwebassets\\Login\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\products-page-heading.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\products-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\service-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\service-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\service-03.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\single-product-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\single-product-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\single-product-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\single-product-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\team-member-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\team-member-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\team-member-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\team-member-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\team-member-03.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\team-member-03.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\Login\\images\\white-logo.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\women-01.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\women-01.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\women-02.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\women-02.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\images\\women-03.jpg",
+      "PackagePath": "staticwebassets\\Login\\images\\women-03.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\Login\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Login\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\Login\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\Login\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\Login\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\Login\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\Login\\js\\quantity.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\slick.js",
+      "PackagePath": "staticwebassets\\Login\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Login\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Login\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\Avt.PNG",
+      "PackagePath": "staticwebassets\\Thumnails\\Avt.PNG"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\Background.png",
+      "PackagePath": "staticwebassets\\Thumnails\\Background.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\C.PNG",
+      "PackagePath": "staticwebassets\\Thumnails\\C.PNG"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\Cshart.PNG",
+      "PackagePath": "staticwebassets\\Thumnails\\Cshart.PNG"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\admission.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\admission.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\admission1.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\admission1.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\bg-single.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\bg-single.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\bg2.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\bg2.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\cplus.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\cplus.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\hienthi.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\hienthi.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\html.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\html.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\index1.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\index1.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\index2.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\index2.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\java.PNG",
+      "PackagePath": "staticwebassets\\Thumnails\\java.PNG"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\js.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\js.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\luyen.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\luyen.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\ngon-ngu-lap-trinh.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\ngon-ngu-lap-trinh.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\php.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\php.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\silde1.png",
+      "PackagePath": "staticwebassets\\Thumnails\\silde1.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\silde2.png",
+      "PackagePath": "staticwebassets\\Thumnails\\silde2.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\silde3.png",
+      "PackagePath": "staticwebassets\\Thumnails\\silde3.png"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\sql.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\sql.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\Thumnails\\viet.jpg",
+      "PackagePath": "staticwebassets\\Thumnails\\viet.jpg"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Cshart\\Project3\\Project3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Project3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Project3.props",
+      "PackagePath": "build\\Project3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Project3.props",
+      "PackagePath": "buildMultiTargeting\\Project3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Project3.props",
+      "PackagePath": "buildTransitive\\Project3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

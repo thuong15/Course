@@ -1,0 +1,219 @@
+﻿@model Project3.Models.Account
+
+<style>
+	/* Custom CSS */
+	:root {
+		--bg1: #9b59b6; /* Định nghĩa giá trị cho biến --bg1 */
+		--bg2: #3498db; /* Định nghĩa giá trị cho biến --bg2 */
+		--bg: #D7E1EC;
+	}
+
+	.profile-card {
+		width: 350px;
+		height: 550px;
+		border-radius: 10px;
+		background: linear-gradient(var(--bg1), var(--bg2));
+		color: #ffffff;
+		padding: 20px;
+	}
+
+	.profile-picture {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		border: 5px solid #ffffff;
+		margin: 20px auto;
+		cursor: pointer;
+		display: block;
+		object-fit: cover;
+	}
+
+	.profile-name {
+		margin-bottom: 10px;
+	}
+
+	.profile-info {
+		margin: 0 0 12px;
+	}
+
+	.profile-btn-container {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.profile-btn {
+		height: 35px;
+		width: 150px;
+		border: none;
+		margin-right: 12px;
+		border-radius: 5px;
+		color: #333333;
+		cursor: pointer;
+	}
+
+	.course-picture {
+		width: 50%
+	}
+</style>
+
+<form method="post">
+	
+	<input hidden asp-for="UserName" value="@Model.UserName" class="form-control" />
+	<input hidden asp-for="Password" value="@Model.Password" class="form-control" />
+	<input hidden asp-for="UserId" value="@Model.UserId" class="form-control" />
+	<input hidden asp-for="RoleId" value="2" class="form-control" />
+	<input hidden asp-for="LastLogin" value="@Model.LastLogin" class="form-control" />
+	<input hidden asp-for="CreateDate" value="@Model.CreateDate" class="form-control" />
+
+
+	<div class="container">
+		@*@foreach(var iteam in Model){*@
+		<div class="row">
+
+
+			<div class="col-md-4">
+				<div class="profile-card">
+
+					<img class="profile-picture" src="~/Thumnails/@Model.Avatar" alt="Profile Picture" />
+					<h2 class="profile-name">
+						<div class="profile-title" id="profile-title">@Model.FullName</div>
+						<div class="profile-input">
+							<input id="input-name" asp-for="FullName" style="display: none;" value="@Model.FullName" />
+						</div>
+					</h2>
+					<p class="profile-info">
+						<div class="profile-title" id="profile-title-1"><p>Address: @Model.Address</p></div>
+						<div class="profile-input">
+							<input id="input-info1" asp-for="Address" style="display: none;" value="@Model.Address" />
+						</div>
+					</p>
+					<p class="profile-info">
+						<div class="profile-title" id="profile-title-2"><p>Birthday: @Model.Birthday</p></div>
+						<div class="profile-input">
+							<input type="date" asp-for="Birthday" id="input-info2" style="display: none;" value="@Model.Birthday" />
+						</div>
+					</p>
+					<p class="profile-info">
+						<div class="profile-title" id="profile-title-3"><p>Email: @Model.Email</p></div>
+						<div class="profile-input">
+							<input id="input-info3" asp-for="Email" style="display: none;" value="@Model.Email" />
+						</div>
+					</p>
+					<p class="profile-info">
+						<div class="profile-title" id="profile-title-4"><p>Phone: @Model.Phone</p></div>
+						<div class="profile-input">
+							<input id="input-info4" asp-for="Phone" style="display: none;" value="@Model.Phone" />
+						</div>
+					</p>
+					<div class="profile-btn-container">
+						<button type="button" class="profile-btn btn btn-info" onclick="chinhsua()">Edit</button>
+						<button type="submit" class="btn btn-info profile-btn-submit profile-btn" asp-action="Profile" asp-controller="Home" style="display:none">submit</button>
+						<button type="button" class="profile-btn btn btn-info profile-btn-img" style="display:none" onclick="chooseFile()">CHoosefile</button>
+						<input class="form-control" type="file" hidden name="img" accept="image/*" id="avatar-input">
+						<input asp-for="Avatar" id="avatar-file-name" hidden class="text-muted form-control" />
+					</div>
+
+				</div>
+			</div>
+
+			<div class="col-md-8">
+
+
+
+				<h1>Các Khóa đã Đăng kí</h1>
+
+
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th>STT</th>
+							<th>CourseName</th>
+							<th>CourseImage</th>
+
+						</tr>
+					</thead>
+					<tbody>
+						@{
+							int tt = 1;
+						}
+
+						@foreach (var iteam in (IEnumerable<Project3.Models.Account>)ViewData["Thuong"])
+						{
+							@if (iteam.OrderCourses.Count > 0)
+							{
+								@foreach (var orderCourse in iteam.OrderCourses)
+								{
+									<tr>
+										<td>@tt</td>
+										<td>@orderCourse.Course.CourseName</td>
+										<td><img width="100px" height="120px" class="course-picture" src="~/Thumnails/@orderCourse.Course.Image" />  </td>
+
+									</tr>
+									tt++;
+								}
+
+
+							}
+						}
+
+
+
+
+					</tbody>
+				</table>
+
+			</div>
+		</div>
+		@*}*@
+	</div>
+</form>
+<script>
+	function chinhsua() {
+		// Lấy danh sách các div có class "profile-title"
+		var profileTitles = document.getElementsByClassName('profile-title');
+
+		// Lặp qua danh sách và ẩn các div có class "profile-title"
+		for (var i = 0; i < profileTitles.length; i++) {
+			profileTitles[i].style.display = 'none';
+		}
+
+		// Hiển thị các input tương ứng
+		document.getElementById('input-name').style.display = 'block';
+		document.getElementById('input-info1').style.display = 'block';
+		document.getElementById('input-info2').style.display = 'block';
+		document.getElementById('input-info3').style.display = 'block';
+		document.getElementById('input-info4').style.display = 'block';
+
+		document.querySelector('.profile-btn-submit').style.display = 'block';
+		document.querySelector('.profile-btn-img').style.display = 'block';
+		document.querySelector('.profile-btn').style.display = 'none';
+	}
+	function chooseFile() {
+		document.getElementById('avatar-input').click();
+	}
+	document.getElementById('avatar-input').addEventListener('change', function () {
+		var fileInput = document.getElementById('avatar-input');
+		var fileNameInput = document.getElementById('avatar-file-name');
+		fileNameInput.value = fileInput.files[0].name;
+
+		var selectedImageFile = fileInput.files[0];
+		// Check if a file is selected
+		if (selectedImageFile) {
+			// Set the value of the fileNameInput to the selected image file name
+			fileNameInput.value = selectedImageFile.name;
+
+			// Construct the image URL with the base path and the selected file name
+			var imagePath = "/Thumnails/" + selectedImageFile.name;
+
+			// Set the 'src' attribute of the 'img' element to the constructed image URL
+			document.querySelector('.profile-picture').src = imagePath;
+		}
+	});
+	var successMessage = document.getElementById("messId").value;
+	if (successMessage !== "") {
+		alert("Chỉnh sửa thành công! Vui lòng đăng nhập lại!")
+		//if (confirm(successMessage)) {
+		window.location.href = "/logout.html";
+		//}
+	}
+</script>
